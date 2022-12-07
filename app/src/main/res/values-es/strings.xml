@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Lugare_v</string>
+    <string name="tv_correo">e-mail</string>
+    <string name="tv_contraseña">contraseña</string>
+    <string name="title_activity_principal">Principal</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_lugar">Lugar</string>
+    <string name="menu_gallery">Mapa</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="msg_nombre">Nombre del lugar</string>
+    <string name="msg_correo">Correo(ejemplo@xxx.com)</string>
+    <string name="msg_telefono">Telefono(9999–9999)</string>
+    <string name="msg_web">Pagina Web</string>
+    <string name="BT_add_lugar">Agregar lugar</string>
+    <string name="BT_update_lugar">Actualizar lugar</string>
+    <string name="msg_lugar_added">Lugar Agregado</string>
+    <string name="msg_lugar_update">Lugar Actualizado</string>
+
+
+    <string name="bt_delete_lugar">Eliminar lugar</string>
+    <string name="msg_lugar_deleted">Lugar Eliminado</string>
+    <string name="msg_pregunta_eliminar">Esta seguro de elimar el lugar?</string>
+    <string name="msg_si">Si</string>
+    <string name="msg_no">No</string>
+
+    <string name="msg_enviar_correo">Enviar correo electrónico</string>
+    <string name="msg_phone_call">Realizar llamada telefónica</string>
+    <string name="msg_whatsapp_send">Enviar mensaje WhatsApp</string>
+    <string name="msg_web_view">Abrir sitio Web</string>
+    <string name="msg_map_view">Ver lugar en mapa</string>
+    <string name="tv_latitud_lb">Latitud</string>
+    <string name="tv_longitud_lb">Longitud</string>
+    <string name="tv_altura_lb">Altura</string>
+    <string name="msg_saludos">Saludos amigos</string>
+    <string name="msg_mensaje_correo">Le escribo este correo para</string>
+    <string name="msg_datos">Faltan datos</string>
+    <string name="error">Error</string>
+
+    <string name="msgEscucharAudio">Escuchar nota de audio</string>
+    <string name="msg_imagen">Imagen del lugar</string>
+    <string name="graba_pausa">Graba o pausa grabación</string>
+    <string name="escuchaPlay">Escucha grabación</string>
+    <string name="delete_nota">Borra nota de audio</string>
+    <string name="play_nota">Escuchar nota de audio</string>
+    <string name="rec_stop_nota">Graba o detiene nota de audio</string>
+    <string name="take_photo">Toma foto</string>
+    <string name="rotate_l">Rota izquierda</string>
+    <string name="rotale_r">Rota a la derecha</string>
+    <string name="msg_graba_audio">Grabando nota de audio</string>
+    <string name="msg_detener_audio">Nota de audio detenida</string>
+    <string name="msg_subiendo_audio">Subiendo Nota Audio</string>
+    <string name="msg_subiendo_imagen">Subiendo imagen</string>
+    <string name="Todo">Luego…</string>
+</resources>
